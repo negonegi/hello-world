@@ -1,4 +1,2 @@
 Hello
 UCI
-negoro
-negonegi
