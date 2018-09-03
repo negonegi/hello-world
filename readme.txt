@@ -1,2 +1,4 @@
 Hello
-UCI
+I
+nego
+negi
